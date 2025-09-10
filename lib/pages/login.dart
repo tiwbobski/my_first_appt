@@ -43,7 +43,7 @@ class _LoginPageState extends State<LoginPage> {
           children: [
             GestureDetector(
               onTap: () => login(),
-              child: Image.asset('assets/images/login.png'),
+              child: Image.asset('assets/images/bg.jpg'),
             ),
 
             Padding(
